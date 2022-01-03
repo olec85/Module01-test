@@ -1,0 +1,23 @@
+h1{
+    color: chartreuse;
+    background-color: #fff;
+}
+span{
+    color: darkblue;
+}
+h2{
+    color: blueviolet;
+}
+ul{
+    background-color: red;
+    color: cadetblue;
+}
+li{
+    color: darkcyan;
+}
+span{
+    color: deeppink;
+}
+q{
+    color: red;
+}
