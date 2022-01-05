@@ -29,6 +29,15 @@ ul {
 ul > li {
     margin-right: 30px;
 }
+ul > li:last-child {
+    margin-right: 0;
+}
+.link{
+    border-color: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
 a{
     color: rebeccapurple;
     font-weight: 700;
